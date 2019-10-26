@@ -5,3 +5,6 @@ Controlled wirelessly with a Bluetooth controller (MIT AppInventor Android appli
 
 Please refer to http://aburobocon.net/ for detailed rules and specifications.
 
+Demonstration:
+https://youtu.be/1gwGDRHCDhY?t=2232
+
